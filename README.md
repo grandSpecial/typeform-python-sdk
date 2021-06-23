@@ -149,3 +149,4 @@ responses = Typeform('<api_key>').responses
 result: str = responses.delete('abc123' 'token1')
 result: str = responses.delete('abc123' ['token2', 'token3'])
 ```
+# typform-extended
